@@ -1,0 +1,7 @@
+'atom-workspace atom-text-editor:not([mini])':
+  'cmd-down': 'editor:move-line-down'
+  'cmd-up': 'editor:move-line-up'
+
+'body':
+  'ctrl-cmd-down': 'core:move-to-bottom'
+  'ctrl-cmd-up': 'core:move-to-top'
