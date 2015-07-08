@@ -1,0 +1,20 @@
+"*":
+  "exception-reporting":
+    userId: "08f1eb75-2cbb-9b21-ba7c-33f584947de3"
+  welcome:
+    showOnStartup: false
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-monokai"
+    ]
+  editor:
+    fontSize: 10
+    invisibles: {}
+    showIndentGuide: true
+    tabLength: 4
+    scrollPastEnd: true
+  "file-watcher":
+    promptWhenFileHasChangedOnDisk: false
+  nuclide:
+    remoteProjectsConfig: []
